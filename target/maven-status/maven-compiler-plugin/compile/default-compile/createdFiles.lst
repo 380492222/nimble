@@ -1,0 +1,5 @@
+com\nimble\univtool\UnivToolApplication.class
+com\nimble\univtool\constant\Constants.class
+com\nimble\univtool\rule\Verify.class
+com\nimble\univtool\test\testController.class
+com\nimble\univtool\enums\EnumType.class

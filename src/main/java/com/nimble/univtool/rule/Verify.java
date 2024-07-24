@@ -3,12 +3,8 @@ package com.nimble.univtool.rule;
 import com.nimble.univtool.enums.EnumType;
 
 /**
- * @Description: 万能校验类
- * @Author: Nimble
- * @Version: 1.0.0
- * @Date:  2024/7/23 16:50
- * @Parameters: * @param[1] null
- * @Return
+ *  万能校验类
+ *
  */
 public final class Verify {
 

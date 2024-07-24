@@ -5,9 +5,9 @@ import org.apache.commons.lang3.StringUtils;
 import java.util.regex.Pattern;
 /**
  * 枚举类
- * @Author: Nimble
- * @Version: 1.0.0
- * @Date:  2024/7/24 10:48
+ *  Nimble
+ *  1.0.0
+ *  2024/7/24 10:48
  */
 @Getter
 public enum EnumType {
